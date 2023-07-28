@@ -1,0 +1,179 @@
+[{
+  "_id": {
+    "$oid": "63bc81db4c3fb739a0b861ad"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63bc6587748f91fb0d239f93"
+    },
+    {
+      "$oid": "63bc6775288141d80e106e4e"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-01-09T21:06:35.924Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-09T21:57:20.385Z"
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "63bc8dbf284cba4da44f54a6"
+  }
+},
+{
+  "_id": {
+    "$oid": "63bc8794b0a720d629311001"
+  },
+  "chatName": "TP inf 4057",
+  "isGroupChat": true,
+  "users": [
+    {
+      "$oid": "63bc6775288141d80e106e4e"
+    },
+    {
+      "$oid": "63bc7f293c0c31dc2c9b7ab9"
+    },
+    {
+      "$oid": "63bc6587748f91fb0d239f93"
+    }
+  ],
+  "groupAdmin": {
+    "$oid": "63bc6587748f91fb0d239f93"
+  },
+  "createdAt": {
+    "$date": "2023-01-09T21:31:00.623Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-09T21:31:00.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c2d8913f935bd520b67c1c"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63bad0845c48954d9fda1636"
+    },
+    {
+      "$oid": "63bad11b82c0ac912c971abd"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-01-14T16:30:09.121Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-18T03:25:19.145Z"
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "63c7669e0cd0c26a57070434"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c30b6037b955f9680a66c3"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    [
+      "63bad0845c48954d9fda1636",
+      "63bad11b82c0ac912c971abd"
+    ]
+  ],
+  "createdAt": {
+    "$date": "2023-01-14T20:06:56.928Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-14T20:06:56.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c3ca73d42ebb9c52ebcc2e"
+  },
+  "chatName": "sender",
+  "isGroupChat": false,
+  "users": [
+    {
+      "$oid": "63bad0845c48954d9fda1636"
+    },
+    {
+      "$oid": "63badbe98f8d25e617169830"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-01-15T09:42:11.909Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-18T08:33:28.460Z"
+  },
+  "__v": 0,
+  "latestMessage": {
+    "$oid": "63c7aed7cd8f4ec99488f1de"
+  }
+},
+{
+  "_id": {
+    "$oid": "63c7bc5c8ab2d9f82b228640"
+  },
+  "chatName": "inf 4057",
+  "isGroupChat": true,
+  "users": [
+    {
+      "$oid": "63bad11b82c0ac912c971abd"
+    },
+    {
+      "$oid": "63badbe98f8d25e617169830"
+    },
+    {
+      "$oid": "63bad0845c48954d9fda1636"
+    }
+  ],
+  "groupAdmin": {
+    "$oid": "63bad0845c48954d9fda1636"
+  },
+  "createdAt": {
+    "$date": "2023-01-18T09:31:08.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-18T09:31:08.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c7bf36950ddcfb910e5746"
+  },
+  "chatName": "The champions",
+  "isGroupChat": true,
+  "users": [
+    {
+      "$oid": "63bad11b82c0ac912c971abd"
+    },
+    {
+      "$oid": "63badbe98f8d25e617169830"
+    },
+    {
+      "$oid": "63bad0845c48954d9fda1636"
+    }
+  ],
+  "groupAdmin": {
+    "$oid": "63bad0845c48954d9fda1636"
+  },
+  "createdAt": {
+    "$date": "2023-01-18T09:43:18.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-18T09:43:18.999Z"
+  },
+  "__v": 0
+}]
